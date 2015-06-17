@@ -5,6 +5,9 @@ beautiful-soup=4.3.2=py27_0
 flask=0.10.1=py27_1
 itsdangerous=0.24=py27_0
 jinja2=2.7.3=py27_1
+libxml2=2.9.0=1
+libxslt=1.1.28=2
+lxml=3.4.4=py27_0
 markupsafe=0.23=py27_0
 openssl=1.0.1k=1
 pip=7.0.3=py27_0
