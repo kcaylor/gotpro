@@ -5,6 +5,9 @@ venv
 .env_dev_heroku
 .env_prod_heroku
 
+# Ignore temporary .zip files
+.zip
+
 # Utility scripts for Kelly (and Gist):
 config.codekit
 .codekit-cache
